@@ -1,5 +1,6 @@
-## Hi, My Name is Ronaldo 👋 <img src="https://komarev.com/ghpvc/?username=ronz97&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+## <div align="center"><h1>Hi, My Name is Ronaldo 🖥️ </h1></div><div align="rigth">[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-blueviolet?style=flat-circle)](https://uta.cv)<img src="https://komarev.com/ghpvc/?username=ronz97&color=blueviolet&label=Visualizações+do+perfil&style=flat-circle" align="right"/></div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
+
 <p>
 <br>- 🔭 I’m Working for the future</br>
 <br>- 🌱 I’m currently learning AI</br>
